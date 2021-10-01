@@ -26,8 +26,8 @@
 
 <p>
   <center>
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeksha-sanu&show_icons=true&locale=en&layout=compact" alt="deeksha-sanu" /></p>
-</center>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deeksha-sanu&show_icons=true&locale=en&layout=compact" alt="deeksha-sanu" /></p>
+
   <br>
 
 <p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=deeksha-sanu&show_icons=true&locale=en" alt="deeksha-sanu" /></p>

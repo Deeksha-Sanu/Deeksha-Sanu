@@ -28,8 +28,8 @@
 
 <br>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=deeksha-sanu&show_icons=true&locale=en" alt="deeksha-sanu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeksha-sanu&show_icons=true&locale=en" alt="deeksha-sanu" /></p>
 <br>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deeksha-sanu&" alt="deeksha-sanu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeksha-sanu&" alt="deeksha-sanu" /></p>
 <br>

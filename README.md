@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://twitter.com/questionistaa" target="blank"><img src="https://img.shields.io/twitter/follow/questionistaa?logo=twitter&style=for-the-badge" alt="questionistaa" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm, Python**
+- 🌱 I’m currently learning **Data Structures and Algorithm, Python, Java**
 
 - 💬 Ask me about **CSS, HTML**
 
